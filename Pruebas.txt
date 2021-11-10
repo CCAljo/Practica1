@@ -1,4 +1,4 @@
 indicaciones generales de proyectos de fun de curso
 Fornamr grupos de 3 presonas
-Plantee el desarrollo de un proyecto web en donde bal abla
-asasa
+Plantee el desarrollo de un proyecto web en donde se haga uso de base de datos
+
