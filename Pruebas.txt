@@ -1,4 +1,5 @@
 indicaciones generales de proyectos de fun de curso
 Fornamr grupos de 3 presonas
+<<<<<<< HEAD
 Plantee el desarrollo de un proyecto web en donde se haga uso de base de datos
-
+pruebas desde master y develop
