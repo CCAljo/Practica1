@@ -11,4 +11,8 @@ public class Empleado(){
 		return this.nombre;
 	}
 
+	public void setNombre(){
+	get nombre;
+	}
+
 }
